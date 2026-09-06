@@ -1,0 +1,1 @@
+/Users/lberkovi/Agents/NCSP/forks/SKL/osac-workspace/.osac-ai-skills/.design/context/osac-ui-patterns.md
